@@ -27,7 +27,7 @@
  -  construir um modelo de regressão tendo como alvo o preço do diamante .
 
 ## Ferramentas Usadas
- Este projeto foi desenvolvido usando Python,Pandas, Numpy e scikit learn.
+ Este projeto foi desenvolvido usando Python,NumPy, pandas, matplotlib, Seaborn e scikit-learn.
 
 ## Métricas para avaliação do modelo:
  - Se as previsões estiverem próximas dos valores reais, isso é considerado bom.
@@ -43,3 +43,4 @@
 - Para um diamante que não seja nem muito barato nem muito caro, a faixa de preço fica entre US$ 950 e US$ 5.300.
 - Metade dos preços dos diamantes está abaixo de US$ 2.401.
 - A distribuição de preços é enviesada para a direita e isso terá implicações para a modelagem.
+## Resultado das Predições:
