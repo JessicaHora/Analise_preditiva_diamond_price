@@ -47,7 +47,20 @@
 
 ![image](https://github.com/JessicaHora/Analise_preditiva_diamond_price/blob/main/Modelo%20ML.png)
 
-O Modelo KNN tem o Melhor MSE( Erro quadrático Médio )
+O Modelo KNN foi o melhor modelo pois tem o Melhor MSE( Erro quadrático Médio )
 
 ## Previsões e preços reais produzido pelos Modelos:
 
+![image](https://github.com/JessicaHora/Analise_preditiva_diamond_price/blob/main/previsaodePrice.png)
+
+## Redes Neurais:
+
+Um Modelo de Redes Neurais- Os MLPs foi desenvolvido com o objetivo de resolver problemas de Análise preditiva, com o objetivo de obter um modelo mais preciso possível nas Previsões.
+
+### Parâmetros utilizados:
+
+- units:Este é o número de neurônios na camada, usei 32.
+- activation:Esta é a função de ativação que será usada em cada um dos neurônios, foi utilizado o ReLU.
+- input_shape: Este é o número de entradas que a rede receberá, que é igual ao número de recursos preditivos no conjunto de dados.
+
+  O modelo atingiu uma acurácia de 93%
