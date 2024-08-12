@@ -43,4 +43,11 @@
 - Para um diamante que não seja nem muito barato nem muito caro, a faixa de preço fica entre US$ 950 e US$ 5.300.
 - Metade dos preços dos diamantes está abaixo de US$ 2.401.
 - A distribuição de preços é enviesada para a direita e isso terá implicações para a modelagem.
-## Resultado das Predições:
+## Resultado dos Modelos de ML:
+
+![image](https://github.com/JessicaHora/Analise_preditiva_diamond_price/blob/main/Modelo%20ML.png)
+
+O Modelo KNN tem o Melhor MSE( Erro quadrático Médio )
+
+## Previsões e preços reais produzido pelos Modelos:
+
