@@ -27,7 +27,7 @@
  -  construir um modelo de regressão tendo como alvo o preço do diamante .
 
 ## Ferramentas Usadas
- Este projeto foi desenvolvido usando Python,NumPy, pandas, matplotlib, Seaborn e scikit-learn.
+ Este projeto foi desenvolvido usando Python,NumPy, pandas, matplotlib, Seaborn e scikit-learn, Keras, tensorflow.
 
 ## Métricas para avaliação do modelo:
  - Se as previsões estiverem próximas dos valores reais, isso é considerado bom.
