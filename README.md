@@ -21,7 +21,7 @@
 - table: Largura do topo do diamante em relação ao ponto mais largo
 
   ## Objetivos gerais do projeto:
- -  Para usar os recursos contidos no conjunto de dados (todas as colunas, exceto o preço)
+  
  -  Construir um modelo preditivo que preveja o preço dos diamantes, com a maior precisão possível, com base nessas características.
  -  Prever os preços dos diamantes oferecidos pelos produtores, para que possa ser decidir quanto pagar por esses diamantes.
  -  construir um modelo de regressão tendo como alvo o preço do diamante .
