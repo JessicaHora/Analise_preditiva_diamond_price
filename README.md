@@ -25,3 +25,8 @@
  -  Construir um modelo preditivo que preveja o preço dos diamantes, com a maior precisão possível, com base nessas características.
  -  Prever os preços dos diamantes oferecidos pelos produtores, para que possa ser decidir quanto pagar por esses diamantes.
  -  construir um modelo de regressão tendo como alvo o preço do diamante .
+
+## Ferramentas Usadas
+ Este projeto foi desenvolvido usando Python,Pandas, Numpy e scikit learn.
+
+ 
