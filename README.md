@@ -29,4 +29,17 @@
 ## Ferramentas Usadas
  Este projeto foi desenvolvido usando Python,Pandas, Numpy e scikit learn.
 
- 
+## Métricas para avaliação do modelo:
+ - Se as previsões estiverem próximas dos valores reais, isso é considerado bom.
+ - Por outro lado, se a previsão estiver muito distante do valor real, isso não é bom.
+
+## Resultados do EDA:
+
+- À medida que os preços aumentam, observamos menos diamantes em nossa amostra.
+- Há grande variabilidade nos preços dos diamantes; de fato, os preços variam de US$ 326 a US$ 18.823.
+- Essa alta variabilidade dos preços se reflete em um desvio padrão de US$ 4.000.
+- Devido à alta variabilidade de preços e à longa cauda da distribuição, não existe um preço típico para um diamante.
+- Cerca de 25% dos preços estão abaixo de US$ 950 (aproximadamente).
+- Para um diamante que não seja nem muito barato nem muito caro, a faixa de preço fica entre US$ 950 e US$ 5.300.
+- Metade dos preços dos diamantes está abaixo de US$ 2.401.
+- A distribuição de preços é enviesada para a direita e isso terá implicações para a modelagem.
